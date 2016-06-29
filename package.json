@@ -1,0 +1,22 @@
+{
+  "name": "georgette.party",
+  "version": "1.0.0",
+  "description": "Georgette Party Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgetteParty/georgette.party.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgetteParty/georgette.party/issues"
+  },
+  "homepage": "https://github.com/GeorgetteParty/georgette.party#readme",
+  "dependencies": {
+    "ghost": "^0.9.0-beta.2"
+  }
+}
