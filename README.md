@@ -1,3 +1,3 @@
-# The Georgette Party Website
+# The Georgette Party Blog
 
-http://georgette.party
+http://blog.georgette.party
