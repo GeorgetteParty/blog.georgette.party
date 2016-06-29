@@ -10,7 +10,7 @@ var config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://georgette.party',
+        url: 'http://blog.georgette.party',
         mail: {},
         database: {
             client: 'sqlite3',
